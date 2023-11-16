@@ -98,9 +98,9 @@ button:hover{
     align-items: center;
     display: flex;
     position: absolute;
-    top: 70%;
-    left: 70%;
-    transform: translate(-70%, -70%);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     font-size: 19px;
 }
 
@@ -153,7 +153,7 @@ form{
     display: flex;
     box-shadow: 2px 2px 10px 2px #6d1fffcc;
     flex-direction: column;
-    padding: 3vw 9vw;
+    padding: 4vw 10vw;
     max-width: 800px;
     border-radius: 25px;
     text-align: center;
