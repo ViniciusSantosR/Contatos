@@ -133,9 +133,9 @@ button:hover{
 ._contact{
     align-items: center;
     position: absolute;
-    top: 70%;
-    left: 70%;
-    transform: translate(-70%, -70%);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 ._container{
