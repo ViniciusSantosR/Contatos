@@ -98,9 +98,9 @@ button:hover{
     align-items: center;
     display: flex;
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    top: 70%;
+    left: 70%;
+    transform: translate(-70%, -70%);
     font-size: 19px;
 }
 
@@ -133,16 +133,16 @@ button:hover{
 ._contact{
     align-items: center;
     position: absolute;
-    top: 60%;
-    left: 60%;
-    transform: translate(-60%, -60%);
+    top: 70%;
+    left: 70%;
+    transform: translate(-70%, -70%);
 }
 
 ._container{
     box-sizing: border-box;
     padding: 0;
     margin: 0;;
-    width: 100%;
+    width: 150%;
     height: 100vh;
     display: flex;
     align-items: center;
@@ -163,7 +163,7 @@ form a{
     transition: all 0.3s ease 0s;
     background-color: #4201bb;
     border-radius: 25px;
-    padding: 10px 10px;
+    padding: 10px 15px;
 }
 
 form a:hover{
