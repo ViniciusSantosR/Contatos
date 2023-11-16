@@ -71,7 +71,7 @@ header{
 }
 
 button{
-    padding: 9px 25px;
+    padding: 9px 30px;
     background-color: rgb(66, 1, 187, 1);
     border: none;
     border-radius: 50px;
@@ -133,9 +133,9 @@ button:hover{
 ._contact{
     align-items: center;
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    top: 60%;
+    left: 60%;
+    transform: translate(-60%, -60%);
 }
 
 ._container{
