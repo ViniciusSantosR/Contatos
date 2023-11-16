@@ -130,12 +130,12 @@ button:hover{
     color: #6d1fffcc;
 }
 
-._contact{
+._contact {
     align-items: center;
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -40%);
 }
 
 ._container{
