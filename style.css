@@ -168,6 +168,4 @@ form a{
 
 form a:hover{
     transition: all 0.3s ease 0s;
-    letter-spacing: 4px;
-
 }
